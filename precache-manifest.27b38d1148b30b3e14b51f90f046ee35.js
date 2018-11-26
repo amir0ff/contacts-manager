@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/contacts-manager/static/css/1.a6295cab.chunk.css"
   },
   {
-    "revision": "0684a3619832536152ee8292692649ac",
+    "revision": "2bde74f417b8039a0df962c8bfa1dac1",
     "url": "/contacts-manager/index.html"
   }
 ];
